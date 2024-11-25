@@ -1,8 +1,9 @@
-## Hi, there! I'm Luís 👋
+## Hi, there! I'm Luís 👋😊
 
 I am a computer scientist from São Paulo, Brazil. I am currently on sabbatical, so I can work on myself and some personal projects (like learning how to ride a motorcyle!).
 
-I'm a lifelong learner, always eager to discover and share. My interests include statistics, data visualization and data engineering. I've also been very interested in environmental issues recently.
+I'm a lifelong learner, always eager to discover and share. My interests include statistics, data visualization and data engineering. I've also been very interested in environmental issues recently. 🌴
+
 You can reach me at [![LinkedIn][1.1]][1].
 
 <!-- links to social media icons -->
